@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic8Ball</string>
+    <string name="hello_world">¡La respuesta es si!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pregunta">Haz tu pregunta</string>
+    <string name="Pregunta">Haz Tu Pregunta</string>
+
+</resources>
